@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/tharsis-soares/backend-json-server/issues"
   },
-  "homepage": "https://github.com/tharsis-soares/backend-json-server#readme",
+  "homepage": "https://backend-tharsis.herokuapp.com/",
   "dependencies": {
     "json-server": "^0.16.3"
   }
